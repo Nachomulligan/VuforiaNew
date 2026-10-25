@@ -53,11 +53,11 @@ MonoBehaviour:
   RuntimeCollider: 0
   mTrackableName: lucario
   mInitializedInEditor: 1
-  mDataSetPath: Vuforia/UadeARDatabase.xml
-  mAspectRatio: 1.3966665
+  mDataSetPath: Vuforia/NewArDatabase.xml
+  mAspectRatio: 1.39665
   mImageTargetType: 0
-  mWidth: 0.006
-  mHeight: 0.00838
+  mWidth: 0.06
+  mHeight: 0.083799
   mRuntimeTexture: {fileID: 0}
   mMotionHint: 1
   mTrackingOptimization: 0

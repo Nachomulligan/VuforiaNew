@@ -53,11 +53,11 @@ MonoBehaviour:
   RuntimeCollider: 0
   mTrackableName: primeape
   mInitializedInEditor: 1
-  mDataSetPath: Vuforia/UadeARDatabase.xml
-  mAspectRatio: 1.3905
+  mDataSetPath: Vuforia/NewArDatabase.xml
+  mAspectRatio: 1.3905001
   mImageTargetType: 0
-  mWidth: 0.006
-  mHeight: 0.008343
+  mWidth: 0.06
+  mHeight: 0.08343
   mRuntimeTexture: {fileID: 0}
   mMotionHint: 1
   mTrackingOptimization: 0

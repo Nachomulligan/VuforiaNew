@@ -53,11 +53,11 @@ MonoBehaviour:
   RuntimeCollider: 0
   mTrackableName: fuecoco
   mInitializedInEditor: 1
-  mDataSetPath: Vuforia/UadeARDatabase.xml
-  mAspectRatio: 1.3928332
+  mDataSetPath: Vuforia/NewArDatabase.xml
+  mAspectRatio: 1.39275
   mImageTargetType: 0
-  mWidth: 0.006
-  mHeight: 0.008357
+  mWidth: 0.059999995
+  mHeight: 0.083565
   mRuntimeTexture: {fileID: 0}
   mMotionHint: 1
   mTrackingOptimization: 0

@@ -53,11 +53,11 @@ MonoBehaviour:
   RuntimeCollider: 0
   mTrackableName: mankey
   mInitializedInEditor: 1
-  mDataSetPath: Vuforia/UadeARDatabase.xml
-  mAspectRatio: 1.3913333
+  mDataSetPath: Vuforia/NewArDatabase.xml
+  mAspectRatio: 1.3913
   mImageTargetType: 0
-  mWidth: 0.006
-  mHeight: 0.008348
+  mWidth: 0.06
+  mHeight: 0.083478
   mRuntimeTexture: {fileID: 0}
   mMotionHint: 1
   mTrackingOptimization: 0

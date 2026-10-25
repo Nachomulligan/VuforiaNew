@@ -47,10 +47,6 @@ public class GroundPlaneModelCycler : MonoBehaviour
         if (models == null || models.Length == 0 || stage == null)
             return;
 
-        Instantiate(
-            models[currentIndex],
-            stage.transform.position,
-            stage.transform.rotation
-        );
+        Instantiate(models[currentIndex], stage.transform, false);
     }
 }

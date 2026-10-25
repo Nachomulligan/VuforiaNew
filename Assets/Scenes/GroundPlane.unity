@@ -147,7 +147,7 @@ RectTransform:
   m_GameObject: {fileID: 149644473}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 3.02, y: 3.02, z: 3.02}
+  m_LocalScale: {x: 2.33, y: 2.33, z: 2.33}
   m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 1724628715}
@@ -155,7 +155,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: 475, y: 420}
+  m_AnchoredPosition: {x: 427, y: 420}
   m_SizeDelta: {x: 160, y: 59.793457}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &149644475
@@ -357,9 +357,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Model 5
-
-'
+  m_text: Sonic
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -666,9 +664,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Model 2
-
-'
+  m_text: Cleaning
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -917,9 +913,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Model 4
-
-'
+  m_text: Armored
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1232,7 +1226,7 @@ RectTransform:
   m_GameObject: {fileID: 886678618}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 3.02, y: 3.02, z: 3.02}
+  m_LocalScale: {x: 2.33, y: 2.33, z: 2.33}
   m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 1687145837}
@@ -1240,7 +1234,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: 475, y: 199}
+  m_AnchoredPosition: {x: 427, y: 199}
   m_SizeDelta: {x: 160, y: 59.793457}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &886678620
@@ -1353,7 +1347,7 @@ RectTransform:
   m_GameObject: {fileID: 982157458}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 3.02, y: 3.02, z: 3.02}
+  m_LocalScale: {x: 2.33, y: 2.33, z: 2.33}
   m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 190225053}
@@ -1361,7 +1355,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: 1, y: 199}
+  m_AnchoredPosition: {x: -2, y: 199}
   m_SizeDelta: {x: 160, y: 59.793457}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &982157460
@@ -1586,7 +1580,7 @@ RectTransform:
   m_GameObject: {fileID: 1500925218}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 3.02, y: 3.02, z: 3.02}
+  m_LocalScale: {x: 2.33, y: 2.33, z: 2.33}
   m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 544527875}
@@ -1594,7 +1588,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: -480, y: 199}
+  m_AnchoredPosition: {x: -409, y: 199}
   m_SizeDelta: {x: 160, y: 59.793457}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1500925220
@@ -1852,9 +1846,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Model 6
-
-'
+  m_text: Destroyer
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1962,7 +1954,7 @@ RectTransform:
   m_GameObject: {fileID: 1708991706}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 3.02, y: 3.02, z: 3.02}
+  m_LocalScale: {x: 2.33, y: 2.33, z: 2.33}
   m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 237598561}
@@ -1970,7 +1962,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: 1, y: 420}
+  m_AnchoredPosition: {x: -2, y: 420}
   m_SizeDelta: {x: 160, y: 59.793457}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1708991708
@@ -2112,7 +2104,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Model 3
+  m_text: 'Demolition
 
 '
   m_isRightToLeft: 0
@@ -2470,7 +2462,7 @@ RectTransform:
   m_GameObject: {fileID: 1930742877}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 3.02, y: 3.02, z: 3.02}
+  m_LocalScale: {x: 2.33, y: 2.33, z: 2.33}
   m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 2016655242}
@@ -2478,7 +2470,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: -480, y: 420}
+  m_AnchoredPosition: {x: -409, y: 420}
   m_SizeDelta: {x: 160, y: 59.793457}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1930742879
@@ -2620,7 +2612,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Model 1
+  m_text: 'Assault
 
 '
   m_isRightToLeft: 0

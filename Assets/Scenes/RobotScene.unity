@@ -902,7 +902,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1380614838035588911, guid: 79b6ea89782c837409d4df1595571c00, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5992718410180556909, guid: 79b6ea89782c837409d4df1595571c00, type: 3}
+      propertyPath: cardName
+      value: Destroyer
       objectReference: {fileID: 0}
     - target: {fileID: 5992718410180556909, guid: 79b6ea89782c837409d4df1595571c00, type: 3}
       propertyPath: collectionManager
@@ -1420,6 +1424,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8565440504831627919, guid: eb7dba7d573ed0043980c392daa37d23, type: 3}
+      propertyPath: cardName
+      value: Armored
+      objectReference: {fileID: 0}
+    - target: {fileID: 8565440504831627919, guid: eb7dba7d573ed0043980c392daa37d23, type: 3}
       propertyPath: collectionManager
       value: 
       objectReference: {fileID: 1052757865}
@@ -1481,6 +1489,10 @@ PrefabInstance:
       value: 180
       objectReference: {fileID: 0}
     - target: {fileID: 3195737544565210953, guid: 42cf2636fc0e1b14ab35290fad6bb319, type: 3}
+      propertyPath: cardName
+      value: Demolition
+      objectReference: {fileID: 0}
+    - target: {fileID: 3195737544565210953, guid: 42cf2636fc0e1b14ab35290fad6bb319, type: 3}
       propertyPath: collectionManager
       value: 
       objectReference: {fileID: 1052757865}
@@ -1506,7 +1518,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7989123094167490261, guid: 42cf2636fc0e1b14ab35290fad6bb319, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8333818207924676450, guid: 42cf2636fc0e1b14ab35290fad6bb319, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1622,6 +1634,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 0}
     - target: {fileID: 2918989217499159425, guid: 7c0c8cb0d0f6ed043b9d4469078c3015, type: 3}
+      propertyPath: cardName
+      value: Sonic
+      objectReference: {fileID: 0}
+    - target: {fileID: 2918989217499159425, guid: 7c0c8cb0d0f6ed043b9d4469078c3015, type: 3}
       propertyPath: collectionManager
       value: 
       objectReference: {fileID: 1052757865}
@@ -1631,7 +1647,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3044426157753968524, guid: 7c0c8cb0d0f6ed043b9d4469078c3015, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3764633555055389894, guid: 7c0c8cb0d0f6ed043b9d4469078c3015, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1735,6 +1751,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1648694685932896958, guid: e919ee7e6a0beaa4ebb5ec8104e9ce56, type: 3}
+      propertyPath: cardName
+      value: Cleaning
+      objectReference: {fileID: 0}
+    - target: {fileID: 1648694685932896958, guid: e919ee7e6a0beaa4ebb5ec8104e9ce56, type: 3}
       propertyPath: collectionManager
       value: 
       objectReference: {fileID: 1052757865}
@@ -1744,7 +1764,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1978627409654257415, guid: e919ee7e6a0beaa4ebb5ec8104e9ce56, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2995693563965635179, guid: e919ee7e6a0beaa4ebb5ec8104e9ce56, type: 3}
       propertyPath: mHiddenRoot
@@ -1868,6 +1888,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6614712622825614290, guid: 5e0c338b472dcb54191b086614472bf0, type: 3}
+      propertyPath: cardName
+      value: Assault
+      objectReference: {fileID: 0}
+    - target: {fileID: 6614712622825614290, guid: 5e0c338b472dcb54191b086614472bf0, type: 3}
       propertyPath: collectionManager
       value: 
       objectReference: {fileID: 1052757865}
@@ -1877,7 +1901,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7273724643461455195, guid: 5e0c338b472dcb54191b086614472bf0, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7343706258217258767, guid: 5e0c338b472dcb54191b086614472bf0, type: 3}
       propertyPath: m_LocalPosition.x
